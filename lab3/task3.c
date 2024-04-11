@@ -9,9 +9,9 @@
 #define P0 4 
 #define P1 4
 
-#define N0 3000 
-#define N1 3000
-#define N2 3000
+#define N0 1000 
+#define N1 1000
+#define N2 1000
 
 // mat n*m
 void initMatrix(double* mat, int n, int m, double value) {
